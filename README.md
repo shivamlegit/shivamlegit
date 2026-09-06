@@ -1,10 +1,8 @@
 # Hey, I'm Shivam 👋
 
-**Computer Science Student • Learner • Explorer**
+**CSE Student · Learner · Explorer**
 
-I’m a CSE student exploring programming, web development, and different areas of technology.
-
-Currently learning, experimenting, and building things along the way.
+I’m a Computer Science student exploring programming and technology, while improving my skills through regular practice and projects.
 
 ---
 
@@ -14,7 +12,7 @@ Currently learning, experimenting, and building things along the way.
 
 `C` `Python`
 
-**Web**
+**Web Development**
 
 `HTML` `CSS`
 
@@ -24,36 +22,39 @@ Currently learning, experimenting, and building things along the way.
 
 ---
 
-### 📌 What I'm Working On
+### 🔭 Currently Learning
 
-* 📚 Strengthening programming fundamentals
-* 🧩 Practicing problem solving
-* 🌐 Learning web development
-* 🔨 Building small projects
-* 🚀 Exploring new technologies
-
----
-
-### 📂 My Work
-
-Most of my repositories contain **college assignments, practice work, experiments, and projects** from my learning journey.
+* Programming fundamentals
+* Problem solving
+* Web development
+* Building small projects
+* Exploring new technologies
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Activity
 
-<a href="https://github.com/shivamlegit">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamlegit&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamlegit&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamlegit&hide_border=true" height="165"/>
+</p>
 
-<a href="https://github.com/shivamlegit">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamlegit&layout=compact&hide_border=true" height="160"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamlegit&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📁 My Repositories
+
+You'll find a mix of:
+
+`Academic Work` · `Practice` · `Experiments` · `Projects`
 
 ---
 
 ### 🌱
 
-**Learning something new every day.**
+> **Learn something. Build something. Repeat.**
 
-Thanks for stopping by! 👋
+Thanks for visiting my profile! 👋
