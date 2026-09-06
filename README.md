@@ -1,77 +1,59 @@
-# Hi, I'm Shivam 👋
+# Hey, I'm Shivam 👋
 
-### CSE Student | Learner | Problem Solver
+**Computer Science Student • Learner • Explorer**
 
-I'm a Computer Science student interested in learning how technology works and improving my programming skills one step at a time.
+I’m a CSE student exploring programming, web development, and different areas of technology.
 
-I enjoy working on assignments, practicing programming, exploring new technologies, and building small projects while learning.
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 Computer Science & Engineering Student
-* 💻 Currently improving my programming fundamentals
-* 🧠 Interested in problem solving and software development
-* 📚 Always learning something new
-* 🚀 Working towards becoming a better developer
+Currently learning, experimenting, and building things along the way.
 
 ---
 
-## 🛠️ Technologies
+### 🧰 Tech Stack
 
-```text
-C
-Python
-HTML
-CSS
-Git & GitHub
-```
+**Languages**
 
----
+`C` `Python`
 
-## 📂 What You'll Find Here
+**Web**
 
-* 📚 Academic assignments
-* 💻 Programming practice
-* 🧪 Small projects
-* 📝 Learning resources
-* 🚀 Future projects
+`HTML` `CSS`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 📌 Current Focus
+### 📌 What I'm Working On
 
-```text
-Learning → Practicing → Building → Improving
-```
-
-Currently focusing on strengthening my fundamentals and gaining more hands-on experience through projects and regular practice.
-
----
-
-## 🌱 Learning Journey
-
-I believe good development comes from consistency.
-
-Every project, assignment, and mistake is another opportunity to learn something better.
-
-> **Keep learning. Keep building. Keep improving.**
+* 📚 Strengthening programming fundamentals
+* 🧩 Practicing problem solving
+* 🌐 Learning web development
+* 🔨 Building small projects
+* 🚀 Exploring new technologies
 
 ---
 
-## 📊 GitHub
+### 📂 My Work
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)](https://github.com/shivamlegit)
-
-</div>
+Most of my repositories contain **college assignments, practice work, experiments, and projects** from my learning journey.
 
 ---
 
-<div align="center">
+### 📊 GitHub
 
-### Thanks for visiting! 👋
+<a href="https://github.com/shivamlegit">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamlegit&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
+</a>
 
-</div>
+<a href="https://github.com/shivamlegit">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamlegit&layout=compact&hide_border=true" height="160"/>
+</a>
+
+---
+
+### 🌱
+
+**Learning something new every day.**
+
+Thanks for stopping by! 👋
